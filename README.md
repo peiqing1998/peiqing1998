@@ -1,4 +1,8 @@
-Hi there 👋 I go by SpaceX Ye. Typical social media usernames include peiqing.
+## Hi there 👋 I go by SpaceX Ye. 
+
+Typical social media usernames include peiqing and jude.
+
+peiqing pronounced like "pay cheese".
 
 I have a personal website, where my resume is also hosted.
 
