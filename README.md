@@ -1,6 +1,6 @@
 ## Hi there 👋 I go by SpaceX Ye. 
 
-Typical social media usernames include peiqing and jude.
+Typical social media usernames include `peiqing` and `jude`.
 
 peiqing pronounced like "pay cheese".
 
