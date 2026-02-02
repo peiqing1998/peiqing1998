@@ -1,4 +1,4 @@
-Hi there 👋 I go by Space Ye. Typical social media usernames include peiqing.
+Hi there 👋 I go by SpaceX Ye. Typical social media usernames include peiqing.
 
 I have a personal website, where my resume is also hosted.
 
