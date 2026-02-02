@@ -8,11 +8,11 @@ I have a personal website, where my resume is also hosted.
 
 I'm currently working on:
 
-iceberg-rust: Rust implementation of Apache Iceberg.
+[iceberg-rust](https://github.com/apache/iceberg-rust): Rust implementation of Apache Iceberg.
 
-groth16: Rust implementation of arkworks-rs.
+[groth16](https://github.com/arkworks-rs/groth16): Rust implementation of arkworks-rs.
 
-algebra: Rust implementation of arkworks-rs.
+[algebra](https://github.com/arkworks-rs/algebra): Rust implementation of arkworks-rs.
 
 Ask me about Low-Level Performance Optimization, ZKP, Data Freedom, and 3A game Bloodborne (I'm master)!
 
