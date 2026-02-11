@@ -16,7 +16,7 @@ I'm currently working on:
 
 Ask me about Low-Level Performance Optimization, ZKP, Data Freedom, 
 
-game Bloodborne (I'm master) and Overwatch (I'm playing well Ranked 4000 points)!
+game Bloodborne and Overwatch !
 
 Last but not least: I'm not a native English speaker and am currently practicing my English. If you're interested in having an English conversation with me, I would really appreciate it. Please contact me.
 <!--
