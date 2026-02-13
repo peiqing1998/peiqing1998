@@ -16,9 +16,9 @@ I'm currently working on:
 
 [algebra](https://github.com/arkworks-rs/algebra): Rust implementation of [arkworks-rs](https://arkworks.rs/).
 
-Ask me about Low-Level Performance Optimization, ZKP, Data Freedom, 
+Ask me about Federated Learning, TEE, Low-Level Performance Optimization and ZKP.
 
-game Bloodborne and Overwatch !
+If you enjoy playing Souls-like games like Bloodborn, that's fantastic!
 
 Last but not least: I'm not a native English speaker and am currently practicing my English. If you're interested in having an English conversation with me, I would really appreciate it. Please contact me.
 <!--
