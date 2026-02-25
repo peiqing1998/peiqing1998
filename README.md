@@ -20,7 +20,9 @@ Ask me about Federated Learning, TEE, Low-Level Performance Optimization and ZKP
 
 If you enjoy playing Souls-like games like Bloodborn, that's fantastic!
 
-Last but not least: I'm not a native English speaker and am currently practicing my English. If you're interested in having an English conversation with me, I would really appreciate it. 
+Last but not least: I'm not a native English speaker and am currently practicing my English. 
+
+If you're interested in having an English conversation with me, I would really appreciate it. 
 
 Please contact me.
 <!--
