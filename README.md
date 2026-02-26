@@ -25,6 +25,8 @@ Last but not least: I'm not a native English speaker and am currently practicing
 If you're interested in having an English conversation with me, I would really appreciate it. 
 
 Please contact me.
+
+📧 peiqing6888@gmail.com
 <!--
 **peiqing1998/peiqing1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
