@@ -27,6 +27,8 @@ If you're interested in having an English conversation with me, I would really a
 Please contact me.
 
 peiqing6888@gmail.com
+
+https://t.me/peiqing6888
 <!--
 **peiqing1998/peiqing1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
