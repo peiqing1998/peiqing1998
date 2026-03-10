@@ -2,9 +2,9 @@
 
 Typical social media usernames include `peiqing` and `singleton`.
 
-peiqing pronounced like "pay cheese".
+By day, I code in Rust.
 
-By day, I code in Rust; by night, I trade US stocks.
+by night, I trade US stocks.
 
 I'm currently working on:
 
