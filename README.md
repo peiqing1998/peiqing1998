@@ -12,7 +12,7 @@ I'm currently working on:
 
 [nativelink](https://github.com/TraceMachina/nativelink): Tesla-bred, Rust-powered build of [nativelink](nativelink.com).
 
-[iceberg-rust](https://github.com/apache/iceberg-rust): Rust implementation of [Apache Iceberg](https://iceberg.apache.org/).
+[datafusion](https://github.com/apache/datafusion):Fast, extensible query engine.
 
 If you enjoy playing Souls-like games like Bloodborn, that's fantastic! 
 
