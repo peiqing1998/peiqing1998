@@ -6,31 +6,17 @@ peiqing pronounced like "pay cheese".
 
 By day, I code in Rust; by night, I trade US stocks.
 
-I have a personal website, where my resume is also hosted.
-
 I'm currently working on:
 
 [nativelink](https://github.com/TraceMachina/nativelink): Tesla-bred, Rust-powered build of [nativelink](nativelink.com).
 
 [iceberg-rust](https://github.com/apache/iceberg-rust): Rust implementation of [Apache Iceberg](https://iceberg.apache.org/).
 
-[groth16](https://github.com/arkworks-rs/groth16): Rust implementation of [arkworks-rs](https://arkworks.rs/).
-
-[algebra](https://github.com/arkworks-rs/algebra): Rust implementation of [arkworks-rs](https://arkworks.rs/).
-
-Ask me about Federated Learning, TEE, Low-Level Performance Optimization and ZKP.
-
-If you enjoy playing Souls-like games like Bloodborn, that's fantastic!
-
-Last but not least: I'm not a native English speaker and am currently practicing my English. 
-
-If you're interested in having an English conversation with me, I would really appreciate it. 
+If you enjoy playing Souls-like games like Bloodborn, that's fantastic! 
 
 Please contact me
 
-peiqing6888@gmail.com
-
-https://t.me/peiqing6888
+peiqing6888 (at) gmail (dot) com
 <!--
 **peiqing1998/peiqing1998** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
