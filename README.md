@@ -10,6 +10,8 @@ I have a personal website, where my resume is also hosted.
 
 I'm currently working on:
 
+[nativelink](https://github.com/TraceMachina/nativelink): Tesla-bred, Rust-powered build of [nativelink](nativelink.com).
+
 [iceberg-rust](https://github.com/apache/iceberg-rust): Rust implementation of [Apache Iceberg](https://iceberg.apache.org/).
 
 [groth16](https://github.com/arkworks-rs/groth16): Rust implementation of [arkworks-rs](https://arkworks.rs/).
