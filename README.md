@@ -8,11 +8,11 @@ by night, I trade US stocks.
 
 I'm currently working on:
 
-[nova-core](https://github.com/Rust-for-Linux/linux/tree/rust-next/drivers/gpu/nova-core): Rust-safe, NVIDIA GPU driver of [linux](https://github.com/Rust-for-Linux/linux/tree/rust-next).
+[datafusion](https://github.com/apache/datafusion):Fast, extensible query engine.
 
 [nativelink](https://github.com/TraceMachina/nativelink): Tesla-bred, Rust-powered build.
 
-[datafusion](https://github.com/apache/datafusion):Fast, extensible query engine.
+[nova-core](https://github.com/Rust-for-Linux/linux/tree/rust-next/drivers/gpu/nova-core): Rust-safe, NVIDIA GPU driver of [linux](https://github.com/Rust-for-Linux/linux/tree/rust-next).
 
 If you enjoy playing Souls-like games like Bloodborn, that's fantastic! 
 
